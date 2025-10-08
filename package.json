@@ -1,6 +1,6 @@
 {
   "name": "vr-gallery",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -20,3 +20,4 @@
     "vite": "5.2.0",
     "@vitejs/plugin-react": "4.2.0"
   }
+}
