@@ -1,0 +1,1 @@
+Fixed versions and Vite React plugin added. Deploy on Vercel with Framework: Vite, Build: vite build, Output: dist.
